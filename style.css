@@ -58,3 +58,7 @@ a {
   background-color: #e3f2fd;
   font-size: 14px;
 }
+/* Global heading colors */
+h1, h2, h3 {
+  color: #0d47a1;
+}
